@@ -31,7 +31,7 @@ Uses pure HTML and CSS for styling
 
 Responsive design adapts to different screen sizes
 
-Live Link :- git clone https://github.com/anahita31/netflix-clone.git
+Live Link :- https://anahita31.github.io/Netflix-Clone/
 
 
 🌟 Future Improvements
